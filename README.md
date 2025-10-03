@@ -73,7 +73,7 @@ Run the development server:
 npm run dev
 
 
-Open your browser and visit http://localhost:3000
+get live demon --  skill-scan-q50hdvk5w-vickey0088s-projects.vercel.app
 
 Future Enhancements
 
