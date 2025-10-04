@@ -52,6 +52,8 @@ Clone the repository:
 
 git clone https://github.com/your-username/skillscan-ai.git
 
+live demon https://skill-scan-ai-rdgo.vercel.app/
+
 
 Navigate to the project directory:
 
@@ -72,8 +74,6 @@ Run the development server:
 
 npm run dev
 
-
-get live demon --  skill-scan-q50hdvk5w-vickey0088s-projects.vercel.app
 
 Future Enhancements
 
