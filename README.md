@@ -52,7 +52,7 @@ Clone the repository:
 
 git clone https://github.com/your-username/skillscan-ai.git
 
-live demon https://skill-scan-ai-rdgo.vercel.app/
+live demon https://skill-scan-ai-itr4.vercel.app/
 
 
 Navigate to the project directory:
